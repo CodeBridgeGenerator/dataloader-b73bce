@@ -1,0 +1,62 @@
+[
+    {
+        "vehicleid": 1,
+        "serviceid": 1,
+        "nextservicedate": 44946,
+        "notes": "Oil change scheduled"
+    },
+    {
+        "vehicleid": 2,
+        "serviceid": 3,
+        "nextservicedate": 44972,
+        "notes": "Brake inspection due"
+    },
+    {
+        "vehicleid": 3,
+        "serviceid": 2,
+        "nextservicedate": 45003,
+        "notes": "Tire rotation scheduled"
+    },
+    {
+        "vehicleid": 4,
+        "serviceid": 7,
+        "nextservicedate": 45041,
+        "notes": "Full service due"
+    },
+    {
+        "vehicleid": 5,
+        "serviceid": 1,
+        "nextservicedate": 45076,
+        "notes": "Oil change scheduled"
+    },
+    {
+        "vehicleid": 6,
+        "serviceid": 4,
+        "nextservicedate": 45087,
+        "notes": "Battery replacement due"
+    },
+    {
+        "vehicleid": 7,
+        "serviceid": 2,
+        "nextservicedate": 45112,
+        "notes": "Tire rotation scheduled"
+    },
+    {
+        "vehicleid": 8,
+        "serviceid": 5,
+        "nextservicedate": 45150,
+        "notes": "Engine check due"
+    },
+    {
+        "vehicleid": 9,
+        "serviceid": 6,
+        "nextservicedate": 45189,
+        "notes": "Transmission service due"
+    },
+    {
+        "vehicleid": 10,
+        "serviceid": 1,
+        "nextservicedate": 45224,
+        "notes": "Oil change scheduled"
+    }
+]

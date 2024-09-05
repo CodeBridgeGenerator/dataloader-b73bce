@@ -1,0 +1,92 @@
+[
+    {
+        "customerid": 1,
+        "vehicleid": 1,
+        "servicedate": 44581,
+        "totalamount": 150,
+        "paymentstatus": "Paid",
+        "paymentmethod": "Credit Card",
+        "notes": "Regular maintenance"
+    },
+    {
+        "customerid": 2,
+        "vehicleid": 2,
+        "servicedate": 44607,
+        "totalamount": 200,
+        "paymentstatus": "Paid",
+        "paymentmethod": "Cash",
+        "notes": "Brake service"
+    },
+    {
+        "customerid": 3,
+        "vehicleid": 3,
+        "servicedate": 44638,
+        "totalamount": 250,
+        "paymentstatus": "Unpaid",
+        "paymentmethod": "Credit Card",
+        "notes": "Oil change + tire rotation"
+    },
+    {
+        "customerid": 4,
+        "vehicleid": 4,
+        "servicedate": 44676,
+        "totalamount": 300,
+        "paymentstatus": "Paid",
+        "paymentmethod": "Credit Card",
+        "notes": "Full service"
+    },
+    {
+        "customerid": 5,
+        "vehicleid": 5,
+        "servicedate": 44711,
+        "totalamount": 180,
+        "paymentstatus": "Paid",
+        "paymentmethod": "Cash",
+        "notes": "Oil change"
+    },
+    {
+        "customerid": 6,
+        "vehicleid": 6,
+        "servicedate": 44722,
+        "totalamount": 220,
+        "paymentstatus": "Unpaid",
+        "paymentmethod": "Credit Card",
+        "notes": "Battery replacement"
+    },
+    {
+        "customerid": 7,
+        "vehicleid": 7,
+        "servicedate": 44747,
+        "totalamount": 100,
+        "paymentstatus": "Paid",
+        "paymentmethod": "Credit Card",
+        "notes": "Tire rotation"
+    },
+    {
+        "customerid": 8,
+        "vehicleid": 8,
+        "servicedate": 44785,
+        "totalamount": 280,
+        "paymentstatus": "Paid",
+        "paymentmethod": "Credit Card",
+        "notes": "Engine check"
+    },
+    {
+        "customerid": 9,
+        "vehicleid": 9,
+        "servicedate": 44824,
+        "totalamount": 320,
+        "paymentstatus": "Paid",
+        "paymentmethod": "Cash",
+        "notes": "Transmission service"
+    },
+    {
+        "customerid": 10,
+        "vehicleid": 10,
+        "servicedate": 44859,
+        "totalamount": 150,
+        "paymentstatus": "Paid",
+        "paymentmethod": "Credit Card",
+        "notes": "Regular maintenance"
+    }
+]

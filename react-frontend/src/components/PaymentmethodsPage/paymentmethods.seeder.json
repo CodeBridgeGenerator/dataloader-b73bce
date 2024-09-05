@@ -1,0 +1,22 @@
+[
+    {
+        "methodname": "Credit Card",
+        "description": "Visa, MasterCard, AMEX"
+    },
+    {
+        "methodname": "Cash",
+        "description": "Physical cash payments"
+    },
+    {
+        "methodname": "PayPal",
+        "description": "Online PayPal payments"
+    },
+    {
+        "methodname": "Bank Transfer",
+        "description": "Direct bank transfers"
+    },
+    {
+        "methodname": "Check",
+        "description": "Personal or business checks"
+    }
+]

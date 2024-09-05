@@ -1,0 +1,92 @@
+[
+    {
+        "firstname": "John",
+        "lastname": "Doe",
+        "email": "john.doe@example.com",
+        "phonenumber": "123-456-7890",
+        "address": "123 Main St, Springfield",
+        "joindate": 44576,
+        "loyaltypoints": 150
+    },
+    {
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "email": "jane.smith@example.com",
+        "phonenumber": "987-654-3210",
+        "address": "456 Oak Ave, Springfield",
+        "joindate": 44602,
+        "loyaltypoints": 200
+    },
+    {
+        "firstname": "Jim",
+        "lastname": "Brown",
+        "email": "jim.brown@example.com",
+        "phonenumber": "555-666-7777",
+        "address": "789 Pine Rd, Springfield",
+        "joindate": 44632,
+        "loyaltypoints": 180
+    },
+    {
+        "firstname": "Susan",
+        "lastname": "Clark",
+        "email": "susan.clark@example.com",
+        "phonenumber": "444-555-6666",
+        "address": "321 Birch St, Springfield",
+        "joindate": 44669,
+        "loyaltypoints": 300
+    },
+    {
+        "firstname": "Michael",
+        "lastname": "Lee",
+        "email": "michael.lee@example.com",
+        "phonenumber": "333-444-5555",
+        "address": "654 Cedar Blvd, Springfield",
+        "joindate": 44703,
+        "loyaltypoints": 220
+    },
+    {
+        "firstname": "Emily",
+        "lastname": "Davis",
+        "email": "emily.davis@example.com",
+        "phonenumber": "222-333-4444",
+        "address": "987 Maple St, Springfield",
+        "joindate": 44737,
+        "loyaltypoints": 180
+    },
+    {
+        "firstname": "Robert",
+        "lastname": "Wilson",
+        "email": "robert.wilson@example.com",
+        "phonenumber": "111-222-3333",
+        "address": "321 Elm St, Springfield",
+        "joindate": 44756,
+        "loyaltypoints": 160
+    },
+    {
+        "firstname": "Linda",
+        "lastname": "Thompson",
+        "email": "linda.thompson@example.com",
+        "phonenumber": "999-888-7777",
+        "address": "123 Willow Ln, Springfield",
+        "joindate": 44774,
+        "loyaltypoints": 240
+    },
+    {
+        "firstname": "David",
+        "lastname": "White",
+        "email": "david.white@example.com",
+        "phonenumber": "888-777-6666",
+        "address": "456 Spruce St, Springfield",
+        "joindate": 44807,
+        "loyaltypoints": 210
+    },
+    {
+        "firstname": "Karen",
+        "lastname": "Johnson",
+        "email": "karen.johnson@example.com",
+        "phonenumber": "777-666-5555",
+        "address": "789 Fir St, Springfield",
+        "joindate": 44839,
+        "loyaltypoints": 2
+    }
+]

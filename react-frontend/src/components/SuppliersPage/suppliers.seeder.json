@@ -1,0 +1,44 @@
+[
+    {
+        "suppliername": "Auto Parts Co.",
+        "contactperson": "Tom Benson",
+        "phonenumber": "123-111-4444",
+        "email": "tom.benson@autoparts.com",
+        "address": "123 Auto St, Springfield"
+    },
+    {
+        "suppliername": "Brake Masters",
+        "contactperson": "Nancy Wilson",
+        "phonenumber": "456-222-5555",
+        "email": "nancy.wilson@brakemasters.com",
+        "address": "456 Brake Rd, Springfield"
+    },
+    {
+        "suppliername": "Battery Solutions",
+        "contactperson": "Jack Johnson",
+        "phonenumber": "789-333-6666",
+        "email": "jack.johnson@battery.com",
+        "address": "789 Battery Blvd, Springfield"
+    },
+    {
+        "suppliername": "EngineWorks",
+        "contactperson": "Karen Taylor",
+        "phonenumber": "123-444-7777",
+        "email": "karen.taylor@engineworks.com",
+        "address": "321 Engine Ln, Springfield"
+    },
+    {
+        "suppliername": "Wiper World",
+        "contactperson": "Alice Harris",
+        "phonenumber": "456-555-8888",
+        "email": "alice.harris@wiperworld.com",
+        "address": "654 Wiper Way, Springfield"
+    },
+    {
+        "suppliername": "Tire Plus",
+        "contactperson": "Michael King",
+        "phonenumber": "789-666-9999",
+        "email": "michael.king@tireplus.com",
+        "address": "987 Tire St, Springfield"
+    }
+]

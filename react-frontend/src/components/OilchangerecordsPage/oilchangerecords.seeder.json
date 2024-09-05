@@ -1,0 +1,82 @@
+[
+    {
+        "vehicleid": 1,
+        "servicerecordid": 1,
+        "oiltype": "Synthetic",
+        "mileage": 15000,
+        "technicianid": 1,
+        "dateofchange": 44581
+    },
+    {
+        "vehicleid": 2,
+        "servicerecordid": 5,
+        "oiltype": "Conventional",
+        "mileage": 30000,
+        "technicianid": 2,
+        "dateofchange": 44711
+    },
+    {
+        "vehicleid": 3,
+        "servicerecordid": 3,
+        "oiltype": "Synthetic",
+        "mileage": 45000,
+        "technicianid": 3,
+        "dateofchange": 44638
+    },
+    {
+        "vehicleid": 4,
+        "servicerecordid": 10,
+        "oiltype": "Conventional",
+        "mileage": 60000,
+        "technicianid": 4,
+        "dateofchange": 44859
+    },
+    {
+        "vehicleid": 5,
+        "servicerecordid": 5,
+        "oiltype": "Synthetic",
+        "mileage": 75000,
+        "technicianid": 5,
+        "dateofchange": 44711
+    },
+    {
+        "vehicleid": 6,
+        "servicerecordid": 6,
+        "oiltype": "Synthetic",
+        "mileage": 90000,
+        "technicianid": 6,
+        "dateofchange": 44722
+    },
+    {
+        "vehicleid": 7,
+        "servicerecordid": 7,
+        "oiltype": "Synthetic",
+        "mileage": 105000,
+        "technicianid": 7,
+        "dateofchange": 44747
+    },
+    {
+        "vehicleid": 8,
+        "servicerecordid": 8,
+        "oiltype": "Conventional",
+        "mileage": 120000,
+        "technicianid": 8,
+        "dateofchange": 44785
+    },
+    {
+        "vehicleid": 9,
+        "servicerecordid": 9,
+        "oiltype": "Synthetic",
+        "mileage": 135000,
+        "technicianid": 9,
+        "dateofchange": 44824
+    },
+    {
+        "vehicleid": 10,
+        "servicerecordid": 10,
+        "oiltype": "Synthetic",
+        "mileage": 150000,
+        "technicianid": 10,
+        "dateofchange": 44859
+    }
+]

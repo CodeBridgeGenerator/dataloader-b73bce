@@ -1,0 +1,72 @@
+[
+    {
+        "firstname": "Mark",
+        "lastname": "Jones",
+        "email": "mark.jones@example.com",
+        "phonenumber": "123-111-2222",
+        "specialization": "Oil Change"
+    },
+    {
+        "firstname": "Sarah",
+        "lastname": "Adams",
+        "email": "sarah.adams@example.com",
+        "phonenumber": "456-222-3333",
+        "specialization": "Brake Service"
+    },
+    {
+        "firstname": "James",
+        "lastname": "Carter",
+        "email": "james.carter@example.com",
+        "phonenumber": "789-333-4444",
+        "specialization": "Tire Rotation"
+    },
+    {
+        "firstname": "Lisa",
+        "lastname": "Edwards",
+        "email": "lisa.edwards@example.com",
+        "phonenumber": "123-444-5555",
+        "specialization": "Engine Check"
+    },
+    {
+        "firstname": "Kevin",
+        "lastname": "Garcia",
+        "email": "kevin.garcia@example.com",
+        "phonenumber": "456-555-6666",
+        "specialization": "Battery Replacement"
+    },
+    {
+        "firstname": "Laura",
+        "lastname": "Hill",
+        "email": "laura.hill@example.com",
+        "phonenumber": "789-666-7777",
+        "specialization": "Full Service"
+    },
+    {
+        "firstname": "Daniel",
+        "lastname": "Lee",
+        "email": "daniel.lee@example.com",
+        "phonenumber": "123-777-8888",
+        "specialization": "Tire Rotation"
+    },
+    {
+        "firstname": "Mary",
+        "lastname": "Martinez",
+        "email": "mary.martinez@example.com",
+        "phonenumber": "456-888-9999",
+        "specialization": "Engine Check"
+    },
+    {
+        "firstname": "Richard",
+        "lastname": "Nelson",
+        "email": "richard.nelson@example.com",
+        "phonenumber": "789-999-0000",
+        "specialization": "Transmission Service"
+    },
+    {
+        "firstname": "Jennifer",
+        "lastname": "Parker",
+        "email": "jennifer.parker@example.com",
+        "phonenumber": "123-000-1111",
+        "specialization": "Oil Change"
+    }
+]
